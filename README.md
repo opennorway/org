@@ -10,5 +10,5 @@ The organization Open Norway aims to act as a catalyst for open source and stand
 
 ### Norsk
 
-Foreningen Open Norway ønsker å være en katalysator for åpen kildekode og standarder i Norge. Dette skal vi oppnå med å spre kunnskap, jobbe mot lovgivere og politikere, samt støtte initiativer både i mot offentlig og privat sektor for å forsikre at landet er digitalt suverent og delaktig i videre utvikling og innovasjon.
+Organisasjonen Åpent Norge ønsker å være en katalysator for åpen kildekode og standarder i Norge. Dette skal vi oppnå med å spre kunnskap, jobbe mot lovgivere og politikere, samt støtte initiativer både i mot offentlig og privat sektor for å forsikre at landet er digitalt suverent og delaktig i videre utvikling og innovasjon.
 
