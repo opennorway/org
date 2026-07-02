@@ -11,8 +11,8 @@ Til stede som stiftere var:
 | 1 | Roberth Strand             | robstr/roberthstrand |
 | 2 | Manfred Bjørlin            | manfredbjorlin       |
 | 3 | Jan Ivar Beddari           | beddari              |
-| 4 | Simen A.W. Olsen           | simenandre |
-| 5 | Endre Dingsør              | |
+| 4 | Simen A.W. Olsen           | simenandre           |
+| 5 | Endre Dingsør              | endredingsor         |
 | 6 | Jan-Arve Nygård            | jan-arve-nygard-adsk |
 
 **Roberth Strand** ble valgt som møteleder. **Endre Dingsør** ble valgt som referent.
