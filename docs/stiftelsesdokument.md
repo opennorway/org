@@ -55,7 +55,5 @@ Foreningen ble erklært stiftet og møtet hevet.
 | Simen A.W. Olsen | 02.07.2026 | ____________ |
 | Jan-Arve Nygård  | 02.07.2026 | ____________ |
 
----
-
 Sted, **Norge**, den **02.07.2026**
 
