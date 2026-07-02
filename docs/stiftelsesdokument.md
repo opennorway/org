@@ -6,14 +6,14 @@ Den **02.06.2026** ble det avholdt stiftelsesmøte i **Norge/Virtuelt**.
 
 Til stede som stiftere var:
 
-| # | Navn                       | Codeberg/GitHub      |
-| - | -------------------------- | -------------------- |
-| 1 | Roberth Strand             | robstr/roberthstrand |
-| 2 | Manfred Bjørlin            | manfredbjorlin       |
-| 3 | Jan Ivar Beddari           | beddari              |
-| 4 | Simen A.W. Olsen           | simenandre           |
-| 5 | Endre Dingsør              | endredingsor         |
-| 6 | Jan-Arve Nygård            | jan-arve-nygard-adsk |
+| # | Navn                              | Codeberg/GitHub      |
+| - | --------------------------------- | -------------------- |
+| 1 | Roberth Strand                    | robstr/roberthstrand |
+| 2 | Manfred Bjørlin                   | manfredbjorlin       |
+| 3 | Jan Ivar Beddari                  | beddari              |
+| 4 | Simen A.W. Olsen                  | simenandre           |
+| 5 | Endre Dingsør                     | endredingsor         |
+| 6 | Jan-Arve Nygård                   | jan-arve-nygard-adsk |
 
 **Roberth Strand** ble valgt som møteleder. **Endre Dingsør** ble valgt som referent.
 
@@ -31,14 +31,15 @@ Kontingenten ble fastsatt til:
 
 ## Valg av styre
 
-| Rolle             | Navn             |
-| ----------------- | ---------------- |
-| Styrets leder     | Roberth Strand   |
-| Nestleder         | Endre Dingsør    |
-| Styremedlem       | Manfred Bjørlin  |
-| Styremedlem       | Jan Ivar Beddari |
-| Styremedlem       | Simen A.W. Olsen |
-| Styremedlem       | Jan-Arve Nygård  |
+| Rolle             | Navn                              |
+| ----------------- | --------------------------------- |
+| Styrets leder     | Roberth Strand                    |
+| Nestleder         | Endre Dingsør                     |
+| Styremedlem       | Manfred Bjørlin                   |
+| Styremedlem       | Jan Ivar Beddari                  |
+| Styremedlem       | Simen A.W. Olsen                  |
+| Styremedlem       | Jan-Arve Nygård                   |
+| Styremedlem       | Alexander Vassbotn Røyne-Helgesen |
 
 ## Avslutning
 
