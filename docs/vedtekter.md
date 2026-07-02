@@ -4,7 +4,7 @@
 
 Foreningens navn er Open Norway.
 
-## 2 Formål
+## § 2 Formål
 
 Foreningen har til formål å:
 
@@ -29,8 +29,6 @@ Foreningen har følgende medlemskategorier:
 
 1. Personmedlemmer: Fysiske personer som støtter foreningens formål.
 2. Medlemsorganisasjoner: Juridiske personer (foreninger, selskaper, stiftelser m.fl.) som støtter foreningens formål.
-3. Støttemedlemmer: Fysiske personer eller juridiske personer som ønsker å støtte foreningen økonomisk uten full stemmerett. Støttemedlemmer har tale-, men ikke stemmerett på årsmøte, og er ikke valgbare til tillitsverv.
-4. Opptak av personmedlemmer og medlemsorganisasjoner skjer ved skriftlig opptakserklæring. Styret kan nekte opptak dersom søkeren åpenbart strider mot foreningens formål. Medlemsorganisasjoner oppgir en kontaktperson som sin representant overfor foreningen.
 
 Styret kan ekskludere medlemmer som skader foreningens formål eller omdømme, eller som har misligholdt sine plikter. Ekskluderte medlemmer kan kreve saken behandlet på neste årsmøte.
 
@@ -81,7 +79,7 @@ Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er
 
 ## § 9 Styret
 
-Foreningen har et styre på [5] medlemmer, inkludert leder og nestleder. Styret er høyeste myndighet mellom årsmøtene. Styret skal holde møte når styreleder eller et flertall av styremedlemmene forlanger det.
+Foreningen har et styre på minimum 3 medlemmer, inkludert leder og nestleder. Styret er høyeste myndighet mellom årsmøtene. Styret skal holde møte når styreleder eller et flertall av styremedlemmene forlanger det.
 
 Styret kan fatte vedtak når et flertall av styrets medlemmer er til stede. Vedtak fattes med flertall av de avgitte stemmene.
 
