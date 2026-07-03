@@ -9,7 +9,7 @@ Foreningens navn er Open Norway.
 Foreningen har til formål å:
 
 - Fremme åpen kildekode-praksis, teknologi og kultur i Norge
-- Funge som nettverks- og kompetansearena for enkeltpersoner og organisasjoner som støtter åpen kildekode
+- Fungere som nettverks- og kompetansearena for enkeltpersoner og organisasjoner som støtter åpen kildekode
 - Yte råd og støtte til initiativ som fremmer fri og åpen programvare
 
 Formålet skal oppnås gjennom følgende aktiviteter:
