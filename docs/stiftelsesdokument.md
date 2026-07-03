@@ -49,12 +49,12 @@ Foreningen ble erklært stiftet og møtet hevet.
 
 | Navn             | Dato       | Underskrift  |
 | ---------------- | ---------- | ------------ |
-| Roberth Strand   | 02.07.2026 | ____________ |
-| Endre Dingsør    | 02.07.2026 | ____________ |
-| Manfred Bjørlin  | 02.07.2026 | ____________ |
-| Jan Ivar Beddari | 02.07.2026 | ____________ |
-| Simen A.W. Olsen | 02.07.2026 | ____________ |
-| Jan-Arve Nygård  | 02.07.2026 | ____________ |
+| Roberth Strand   | 03.07.2026 | ____________ |
+| Endre Dingsør    | 03.07.2026 | ____________ |
+| Manfred Bjørlin  | 03.07.2026 | ____________ |
+| Jan Ivar Beddari | 03.07.2026 | ____________ |
+| Simen A.W. Olsen | 03.07.2026 | ____________ |
+| Jan-Arve Nygård  | 03.07.2026 | ____________ |
 
-Sted, **Norge**, den **02.07.2026**
+Sted, **Norge**, den **03.07.2026**
 
